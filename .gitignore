@@ -1,0 +1,10 @@
+/build/
+/demo-*/
+/recovery-*/
+/fault-demo-*/
+/benchmark-*/
+*.db
+*.db-shm
+*.db-wal
+*.out.txt
+*.err.txt
